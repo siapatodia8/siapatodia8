@@ -10,7 +10,7 @@ I build ML systems and AI agents.
 
 ## Selected Projects
 
-### [Personalized Supplement Recommender](https://github.com/kevinkchen1/Personalized-Supplement-Recommender) · 5-person team, 2 Deloitte mentors
+### [Personalized Supplement Recommender](https://github.com/kevinkchen1/Personalized-Supplement-Recommender) · 4-person team, 2 Deloitte mentors
 
 Multi-agent system that flags dangerous supplement–medication interactions and recommends supplements, grounded in a 330K-node biomedical knowledge graph built from biomedical data.
 
@@ -28,7 +28,7 @@ Scrollable data-journalism site testing three common personal-finance beliefs ag
 
 **I owned** the redistribution analysis: paired t-test and OLS on market vs. disposable Gini across countries, derived absolute and relative redistribution metrics, and shipped it as a D3 choropleth plus a written report. → [my commits](https://github.com/ShaheerAlamKhan/FinanceMyths/commits?author=siapatodia8)
 
-### [Team TBD](https://github.com/acmucsd-projects/Team-TBD) · ACM AI quarterly project, 6 students
+### [Team TBD](https://github.com/acmucsd-projects/Team-TBD) · ACM AI quarterly project, 6-person team
 
 NLP model that predicts Myers-Briggs personality type from free text, packaged into a Streamlit app.
 
