@@ -2,7 +2,7 @@
 
 **Data Science + Math @ UC San Diego**
 
-I build ML systems and AI agents.
+I build ML/AI systems and agents.
 
 📫 patodiasia8@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/sia-patodia/)
 
